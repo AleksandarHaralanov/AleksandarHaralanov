@@ -1,4 +1,4 @@
-# Hi there!
+# Hi there! 👋
 
 My name's Aleksandar, I am from Bulgaria.
 
