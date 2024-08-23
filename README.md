@@ -4,6 +4,6 @@
 <br>
 💬 **`Lang`**  Bulgarian, English
 <br>
-🧠 **`Know`**  Java, C#, MySQL
+🧠 **`Know`**  Java, C#, MySQL, Gradle
 <br>
 💼 **`Does`**  IT Graduate, Currently a hobby
