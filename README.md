@@ -1,11 +1,11 @@
-# Hi there!👋
+# Aleksandar Haralanov
 
-<h4>My name's Aleksandar, I am from Bulgaria.</h4>
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=aleksandarharalanov&show_icons=true&theme=github_dark&hide_title=true" alt="Aleksandar's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandarharalanov&layout=compact&theme=github_dark" alt="Aleksandar's Top Languages" />
+</div>
 
-I am currently pursuing a bachelor's degree in 'Software and Internet Technologies' at a Technical University. Additionally, I hold a professional third-degree qualification from a Vocational High School of Electrical Engineering in the field of 'Technician of Computer Systems'.
-
-![](https://komarev.com/ghpvc/?username=AleksandarHaralanov&color=f8312f)
 #
-<a href='https://ko-fi.com/F2F4Z98EI' target='_blank'>
-    <img height='20' style='border:0px;height:25px;' src='https://ko-fi.com/img/githubbutton_sm.svg' border='0' alt='Buy Me a Coffee at ko-fi.com' />
-</a>
+
+<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
