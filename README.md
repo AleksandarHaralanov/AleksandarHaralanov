@@ -4,6 +4,10 @@
 <br>
 💬 **`Lang`**  Bulgarian, English
 <br>
-🧠 **`Know`**  Java, C#, MySQL
+💗 **`Like`**  Music, Spicy Food
 <br>
 💼 **`Does`**  IT Graduate, Currently a hobby
+
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=java,cs,html,css)](https://skillicons.dev)
