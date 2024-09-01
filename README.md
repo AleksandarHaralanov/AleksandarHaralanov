@@ -4,10 +4,10 @@
       <img width="125" height="125" src="assets/denji.jpg" alt="Denji">
     </td>
     <td>
-      <strong>👤 Name:</strong> Aleksandar Haralanov<br>
-      <strong>💬 Lang:</strong> Bulgarian, English<br>
-      <strong>💗 Like:</strong> Music, Spicy Food<br>
-      <strong>💼 Does:</strong> IT Graduate, Currently a hobby
+      <code>👤 Name:</code> Aleksandar Haralanov<br>
+      <code>💬 Lang:</code> Bulgarian, English<br>
+      <code>💗 Like:</code> Music, Spicy Food<br>
+      <code>💼 Does:</code> IT Graduate, Currently a hobby
     </td>
     <td align="center">
       <a href="https://skillicons.dev">
