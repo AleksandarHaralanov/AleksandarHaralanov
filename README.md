@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img align="left" width="125" height="125" src="assets/denji.jpg" alt="Denji">
+      <img width="125" height="125" src="assets/denji.jpg" alt="Denji">
     </td>
     <td>
       <strong>👤 Name:</strong> Aleksandar Haralanov<br>
