@@ -11,7 +11,7 @@
     </td>
     <td align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,cs,html,css" alt="Aleksandar's Skills">
+        <img src="https://skillicons.dev/icons?i=java,cs,html,css,bootstrap" alt="Aleksandar's Skills">
       </a>
     </td>
   </tr>
