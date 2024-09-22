@@ -7,6 +7,7 @@
 💗 **`Like`**  Music, Spicy Food
 <br>
 💼 **`Does`**  IT Graduate, Currently a hobby
+
 <br>
 
 <img src="https://skillicons.dev/icons?i=java,cs,html,css,bootstrap" alt="Aleksandar's Skills">
