@@ -1,4 +1,4 @@
-<img align="left" width="125" height="125" src="assets/denji.png" alt="Denji">
+<img align="left" width="125" height="125" src="assets/denji.jpg" alt="Denji">
 
 👤 **`Name`**  Aleksandar Haralanov
 <br>
