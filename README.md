@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=java,cs,html,css,bootstrap" alt="Aleksandar's Skills">
+![Aleksandar's Skills](https://skillicons.dev/icons?i=java,cs,html,css,bootstrap)
 
 <details>
   <summary>GitHub Stats⚡</summary>
