@@ -10,7 +10,6 @@
 💼 **`Does`** IT Graduate @ TU-Varna
 
 <br>
-
 <details>
   <summary>⚡ <b><code>Stats</code></b></summary>
   
