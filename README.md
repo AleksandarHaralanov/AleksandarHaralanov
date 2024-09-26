@@ -10,7 +10,7 @@
 
 <br>
 
-<a href="#">![Aleksandar's Skills](https://skillicons.dev/icons?i=java,cs,cpp,html,css,bootstrap)</a>
+<a href="#">![Aleksandar's Skills](https://skillicons.dev/icons?i=java,cs,cpp,html,css,bootstrap&theme=dark)</a>
 
 <details>
   <summary><b>GitHub Stats⚡</b></summary>
