@@ -5,9 +5,9 @@
 <a href="#"><img align="right" src="https://skillicons.dev/icons?i=java,cs,cpp,html,css,bootstrap&theme=dark" alt="Aleksandar's Skills"></a>
 💬 **`Lang`** Bulgarian, English
 <br>
-💗 **`Like`** Music, Spicy Food, Energy Drinks, Y2K
+💗 **`Like`** Music, Spicy Food
 <br>
-💼 **`Does`** IT Graduate @ Technical University of Varna
+💼 **`Does`** IT Graduate @ TU-Varna
 
 <br>
 
