@@ -1,12 +1,12 @@
 <a href="#"><img align="left" width="125" height="125" src="assets/denji.png" alt="Denji"></a>
 
-👤 **`Name`**  Aleksandar Haralanov
+👤 **`Name`** Aleksandar Haralanov
 <br>
-💬 **`Lang`**  Bulgarian, English
+💬 **`Lang`** Bulgarian, English
 <br>
-💗 **`Like`**  Music, Spicy Food
+💗 **`Like`** Music, Spicy Food
 <br>
-💼 **`Does`**  IT Graduate, Currently a hobby
+💼 **`Does`** IT Graduate, Currently a hobby
 
 <br>
 
