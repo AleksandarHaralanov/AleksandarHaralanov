@@ -15,6 +15,6 @@
 <details>
   <summary>GitHub Stats⚡</summary>
 
-  <a href="#">![Aleksandar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aleksandarharalanov&theme=github_dark&show_icons=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Aleksandar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aleksandarharalanov&theme=github_dark&show_icons=true&hide_border=true)</a>
   <a href="#">![Aleksandar's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandarharalanov&layout=compact&theme=github_dark&hide_border=true&langs_count=20)</a>
 </details>
