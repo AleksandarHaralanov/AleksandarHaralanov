@@ -12,7 +12,7 @@
 <br>
 
 <details>
-  <summary><h3>GitHub Stats⚡</h3></summary>
+  <summary><b3>GitHub Stats⚡</b></summary>
   
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=aleksandarharalanov&theme=github_dark&show_icons=true&hide_border=true&hide_title=true&line_height=24" alt="Aleksandar's GitHub Stats">
