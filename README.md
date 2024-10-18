@@ -7,7 +7,7 @@
 <br>
 💗 **`Like`** Music, Spicy Food
 <br>
-💼 **`Does`** IT Graduate @ TU-Varna
+💼 **`Does`** IT Graduate, Looking for job
 
 <br>
 <details>
