@@ -7,7 +7,7 @@
 <br>
 💗 **`Like`** Music, Spicy Food
 <br>
-💼 **`Does`** IT Graduate, Looking for job
+💼 **`Does`** IT Graduate, Hobby, LF potential job
 
 <br>
 <details>
