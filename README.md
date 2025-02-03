@@ -2,7 +2,7 @@
 
 👤 **`Name`** Aleksandar Haralanov
 <br>
-<a href="#"><img align="right" src="https://skillicons.dev/icons?i=java,cs,cpp,html,css,bootstrap&theme=dark" alt="Aleksandar's Skills"></a>
+<a href="#"><img align="right" src="https://skillicons.dev/icons?i=unity,java,cs,cpp,html,css,bootstrap&theme=dark" alt="Aleksandar's Skills"></a>
 💬 **`Lang`** Bulgarian, English
 <br>
 💗 **`Like`** Music, Spicy Food
