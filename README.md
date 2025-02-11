@@ -7,7 +7,7 @@
 <br>
 💗 **`Like`** Music, Spicy Food
 <br>
-💼 **`Does`** Computer Engineering Graduate, LF Job
+💼 **`Does`** Computer Engineering Graduate
 
 <br>
 <details>
